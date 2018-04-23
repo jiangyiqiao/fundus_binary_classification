@@ -10,9 +10,9 @@ tensorflow 实现谷歌[INCEPTION-RESNET-V2](https://github.com/tensorflow/model
     num_epochs_before_decay = 10
 
 ## 图像对比
-![正样本](results/Figure_good)
+![正样本](results/Figure_good.jpeg)
 
-![负样本](results/Figure_bad)
+![负样本](results/Figure_bad.jpeg)
 
 ## Dependencies
 * tensorflow
