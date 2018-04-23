@@ -10,9 +10,11 @@ tensorflow 实现谷歌[INCEPTION-RESNET-V2](https://github.com/tensorflow/model
     num_epochs_before_decay = 10
 
 ## 图像对比
-![正样本](results/Figure_good.jpeg)
+* 正样本
+<img src="https://github.com/jiangyiqiao/fundus_binary_classification/blob/master/results/Figure_good.jpeg" width="300" height="300"/> 
+* 负样本
+<img src="https://github.com/jiangyiqiao/fundus_binary_classification/blob/master/results/Figure_bad.jpeg" width="300" height="300" /> 
 
-![负样本](results/Figure_bad.jpeg)
 
 ## Dependencies
 * tensorflow
